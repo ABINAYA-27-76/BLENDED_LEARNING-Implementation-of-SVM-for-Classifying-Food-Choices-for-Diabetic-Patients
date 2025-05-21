@@ -10,7 +10,7 @@ To implement a Support Vector Machine (SVM) model to classify food items and opt
 
 ## Algorithm
 1. Load Data Import and prepare the dataset to initiate the analysis workflow.
-2. 
+   
 2.Explore Data Examine the data to understand key patterns, distributions, and feature relationships.
 
 3.Select Features Choose the most impactful features to improve model accuracy and reduce complexity.
